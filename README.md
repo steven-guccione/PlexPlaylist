@@ -55,4 +55,8 @@ $ ./plexPlaylist.py --server=http://192.168.1.152:32400 --section=3 --token=GFfU
 /Archive/Media/Music/My Playlists/Zappa.m3u  done.
 ```
 
+# Screenshot
+
+![Plex Screenshot] (PlexScreenshot.png)
+
 
