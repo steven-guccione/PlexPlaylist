@@ -20,9 +20,10 @@ optional arguments:
   --token TOKEN      X-Plex-Token string from URL
   --server SERVER    server name (default: http://127.0.0.1:32400)
   --verbose          verbose flag
-  --debug            debug flag```
+  --debug            debug flag
+```
 
-#Sample Run
+# Sample Run
 
 ```bash
 $ ./plexPlaylist.py --server=http://192.168.1.152:32400 --section=3 --token=GFfUQoaB9MKixjMRcdU6 /Archive/Media/Music/My\ Playlists/*.m3u --verbose
@@ -51,6 +52,7 @@ $ ./plexPlaylist.py --server=http://192.168.1.152:32400 --section=3 --token=GFfU
 /Archive/Media/Music/My Playlists/Texas.m3u  done.
 /Archive/Media/Music/My Playlists/Trip 80s.m3u  done.
 /Archive/Media/Music/My Playlists/Xilinx Music.m3u  done.
-/Archive/Media/Music/My Playlists/Zappa.m3u  done.```
+/Archive/Media/Music/My Playlists/Zappa.m3u  done.
+```
 
 
